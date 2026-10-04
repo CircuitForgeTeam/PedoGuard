@@ -1,0 +1,16 @@
+
+build/
+.pio/
+sdkconfig
+sdkconfig.old
+*.o
+*.out
+*.elf
+*.bin
+*.map
+*.tmp
+# Editor & IDE specific files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
